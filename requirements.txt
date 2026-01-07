@@ -1,0 +1,2 @@
+flask == 2.3.4
+gunicorm==21.2.0
